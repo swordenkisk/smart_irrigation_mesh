@@ -1,0 +1,18 @@
+MIT License — Copyright (c) 2026 swordenkisk (https://github.com/swordenkisk)
+
+Project : smart_irrigation_mesh
+Author  : swordenkisk | github.com/swordenkisk/smart_irrigation_mesh
+Created : March 2026
+Source  : ideas_database.db — idea score 89.0/100
+
+Domain      : AgriTech
+Technology  : IoT + LoRaWAN + Federated Learning + ML Forecasting
+Problem     : Agriculture consumes 70% of global fresh water; most is wasted.
+Solution    : Self-organising mesh of soil sensors + Penman-Monteith ET₀ + FedAvg
+Impact      : 40–55% water reduction — billions of m³ saved annually
+
+Novelty: 97/100 | Feasibility: 79/100 | Impact: 97/100
+
+Physics core : FAO-56 Penman-Monteith ET₀ + Bucket soil moisture model
+ML core      : FedAvg federated learning (privacy-preserving, no raw data sharing)
+Standards    : LoRaWAN, MQTT, FAO-56

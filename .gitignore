@@ -1,0 +1,12 @@
+venv/
+.env
+*.db
+otc.py
+credentials.json
+__pycache__/
+logs/
+data/
+*.pyc
+*.log
+secrets/
+config/
